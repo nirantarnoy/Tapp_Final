@@ -1,0 +1,17 @@
+@font-face{
+    font-family: 'thaisanslite_r1';
+    src: url('../fonts/thaisanslite_r1.eot');
+    src: url('../fonts/thaisanslite_r1.eot'),
+        url('../fonts/thaisanslite_r1.otf'),
+        url('../fonts/thaisanslite_r1.ttf'),
+        url('../fonts/thaisanslite_r1.eof'),
+        url('../fonts/thaisanslite_r1.woff');
+    font-weight: normal;
+    font-style: normal;
+    
+}
+body {
+    font-family: 'thaisanslite_r1',sans-serif;
+    font-size: 16px;
+  margin: 0;
+}
